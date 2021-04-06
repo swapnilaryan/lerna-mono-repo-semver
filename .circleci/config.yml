@@ -11,5 +11,4 @@ jobs:
       - node/with-cache:
           steps:
             - run: npm install
-      - run: npm install
-      - run: lerna version minor --yes
+            - run: lerna version minor --yes
