@@ -1,7 +1,23 @@
 {
   "name": "lerna-mono-repo-semver",
-  "private": true,
-  "devDependencies": {
+  "version": "1.0.0",
+  "description": "This project shows how to use lerna to tagging components in GitHub using a mono-repo layout.",
+  "main": "index.js",
+  "dependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquezrene/lerna-mono-repo-semver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enriquezrene/lerna-mono-repo-semver/issues"
+  },
+  "homepage": "https://github.com/enriquezrene/lerna-mono-repo-semver#readme"
 }
