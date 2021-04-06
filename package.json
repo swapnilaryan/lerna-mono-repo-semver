@@ -1,6 +1,6 @@
 {
   "name": "lerna-mono-repo-semver",
-  "devDependencies": {
+  "dependencies": {
     "lerna": "^4.0.0"
   }
 }
