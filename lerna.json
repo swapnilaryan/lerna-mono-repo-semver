@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "api", "mobile", "web"
+  ],
+  "version": "independent"
+}
