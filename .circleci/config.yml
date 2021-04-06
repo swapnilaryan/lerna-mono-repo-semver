@@ -10,5 +10,5 @@ jobs:
       - checkout
       - node/with-cache:
           steps:
-            - run: npm install lerna
+            - run: npm install -g lerna
             - run: lerna version minor --yes
