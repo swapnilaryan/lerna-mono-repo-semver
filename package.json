@@ -14,10 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/enriquezrene/lerna-mono-repo-semver.git"
   },
+  "private": true,
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/enriquezrene/lerna-mono-repo-semver/issues"
   },
-  "homepage": "https://github.com/enriquezrene/lerna-mono-repo-semver#readme"
+  "homepage": "https://github.com/enriquezrene/lerna-mono-repo-semver#readme",
+  "workspaces": [
+    "api", "mobile", "web"
+  ]
 }

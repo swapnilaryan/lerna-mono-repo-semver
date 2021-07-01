@@ -44,5 +44,9 @@
       ]
     ],
     "repositoryUrl": "https://github.com/enriquezrene/lerna-mono-repo-semver"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.4.4",
+    "semantic-release-monorepo": "^7.0.5"
   }
 }
