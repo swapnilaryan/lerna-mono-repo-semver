@@ -1,1 +1,1 @@
-console.log("inside mobile new");
+console.log("inside mobile hellosha s new");
