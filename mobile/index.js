@@ -1,1 +1,1 @@
-console.log("inside mobile");
+console.log("inside mobile new change");
